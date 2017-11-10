@@ -1,0 +1,12 @@
+{
+    "name": "zhu2688/twig-with-bootstrap-responsive-admin-template",
+    "description": "The admin twig template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhu2688",
+            "email": "zhu2688@gmail.com"
+        }
+    ],
+    "require": {}
+}
