@@ -8,5 +8,6 @@
             "email": "zhu2688@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
