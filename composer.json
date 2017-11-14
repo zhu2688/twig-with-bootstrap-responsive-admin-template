@@ -1,7 +1,6 @@
 {
     "name": "zhu2688/twig-with-bootstrap-responsive-admin-template",
     "description": "The admin twig template",
-    "type": "library",
     "require": {
         "php": ">=5.6.0"
     },
